@@ -9,5 +9,5 @@ void main()
     printf("Enter the bredth of the rectangle");
     scanf("%f",&b);
     area = l*b;
-
+    printf("Area of rectangle = %.2f",area);
 }
