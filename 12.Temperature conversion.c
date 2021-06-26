@@ -1,7 +1,6 @@
                                 /*Program to convert celsius to fahrenheit and vise-versa*/
 
 #include <stdio.h>
-#include <conio.h>
 
 void main(){
     float celsius,fahrenhiet;
