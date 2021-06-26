@@ -1,7 +1,7 @@
                     /*Separate integral and decimal parts of a number*/
 
 #include <stdio.h>
-#include <conio.h>
+
 void main()
 {
     float a,decimal_val;
