@@ -1,7 +1,6 @@
                     /*Volume of prism*/
 
 #include <stdio.h>
-#include <conio.h>
 
 void main(){
     float b,h1,h2,vol,area;
