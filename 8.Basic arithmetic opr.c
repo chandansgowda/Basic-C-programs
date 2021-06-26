@@ -1,6 +1,5 @@
                         /*All arithmetic operators with user input*/
 #include <stdio.h>
-#include <conio.h>
 
 void main()
 {
